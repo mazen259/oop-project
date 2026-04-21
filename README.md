@@ -37,18 +37,6 @@ It was built for learning and practicing real-world OOP design in C++.
 
 ---
 
-## 📸 Project Preview
-
-> ضع هنا صور من تشغيل البرنامج 👇
-
-### 🖥️ Console Output Example
-![output](https://via.placeholder.com/800x300.png?text=Console+Output+Here)
-
-### 🧩 Class Structure
-![oop](https://via.placeholder.com/800x300.png?text=OOP+Class+Diagram)
-
----
-
 ## ⚙️ How to Run
 
 ### 1️⃣ Compile
